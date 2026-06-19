@@ -1,0 +1,13 @@
+def print_report(name,roll,marks,total,avg,grade):
+    print("-----------------------\n")
+    print("Student Report Card")
+    print("-----------------------\n")
+    print(f"Name: {name}")
+    print(f"Roll No: {roll}\n")
+    print(f"Maths: {marks.get("Maths")}")
+    print(f"Science: {marks.get("Science")}")
+    print(f"English: {marks.get("English")}")
+    print(f"Total: {total}")
+    print(f"Average: {avg}")
+    print(f"Grade: {grade}\n")
+    print("-----------------------")
