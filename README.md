@@ -8,3 +8,4 @@ A repo documenting my journey from Python beginner to AI Automation Engineer.
 - Day 5: Student Management System (OOP)
 - Day 6: Library Management System
 - Day 7: Student Record Manager
+- Day 8: Task Manager (json)
