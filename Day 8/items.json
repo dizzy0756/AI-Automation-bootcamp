@@ -1,0 +1,17 @@
+{
+    "books": [
+        "Abc",
+        "Asd",
+        "Qwerty"
+    ],
+    "products": [
+        "Car",
+        "Watch",
+        "Guitar"
+    ],
+    "employees": [
+        "Rahul",
+        "Gopi",
+        "Raj"
+    ]
+}
