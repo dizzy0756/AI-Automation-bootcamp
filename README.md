@@ -11,3 +11,4 @@ A repo documenting my journey from Python beginner to AI Automation Engineer.
 - Day 8: Task Manager (json)
 - Day 9: Contact Book (json)
 - Day 10: Contact Book (database/sqlite3)
+- Day 11: Post (Working with API)
