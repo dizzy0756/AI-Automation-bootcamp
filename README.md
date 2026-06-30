@@ -1,4 +1,4 @@
-# Python Bootcamp
+# AI Automation Bootcamp
 A repo documenting my journey from Python beginner to AI Automation Engineer.
 ## Progress
 - Day 1: Employee Salary Calculator
@@ -12,3 +12,4 @@ A repo documenting my journey from Python beginner to AI Automation Engineer.
 - Day 9: Contact Book (json)
 - Day 10: Contact Book (database/sqlite3)
 - Day 11: Post (Working with API)
+- Day 12: Built a rest api
