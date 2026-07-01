@@ -13,3 +13,4 @@ A repo documenting my journey from Python beginner to AI Automation Engineer.
 - Day 10: Contact Book (database/sqlite3)
 - Day 11: Post (Working with API)
 - Day 12: Built a rest api
+- Day 13: Student Manager Flask api with input validation and error handling
